@@ -1,0 +1,9 @@
+[
+  {
+    "outputFileName": "Scripts/app/messagesbundle.js",
+    "inputFiles": [
+      "Scripts/app/messages.js",
+      "Scripts/app/messages02.js"
+    ]
+  }
+]
